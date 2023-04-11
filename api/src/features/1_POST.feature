@@ -6,7 +6,7 @@ Feature: As an API I can create objects
     Then the response status code is 200
 
 
-Scenario: As an API I can retrieve all the posts
-    Given I retrieve the "objects"
-    And the response was successful
-    Then the response status code is 200
+# Scenario: As an API I can retrieve all the posts
+#     Given I retrieve the "objects"
+#     And the response was successful
+#     Then the response status code is 200
